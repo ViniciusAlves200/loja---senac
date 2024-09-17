@@ -1,0 +1,219 @@
+introdução - loja:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title><em>01 Store</em></title>
+</head>
+<body>
+    <center>
+    <div>
+        <h1>Bem-vindo a <em>01 $tore</em>!</h1>
+        <p><b>Sua próxima experiência Apple começa agora. Explore nossos iPhones e descubra o futuro!</b></p>
+    </div>
+
+    <div>
+        <a href="index.html">Página Inicial</a>
+        <a href="ctrl-estoque.html">Controle de Estoque</a>
+        <a href="add-produto.html">Adicionar Produto</a>
+        <a href="funcionarios.html">Funcionários</a>
+    </div>
+    <br>
+    <div>
+        A <b>01 $tore</b> trabalha com os melhores produtos da linha Apple, seja celulares, AirPods, MacBooks Pro e com uma grande variedade de acessórios para cada produto. A nossa loja prioriza por um ambiente aconchegante e saudável, deixando o/a cliente a vontade.
+    </div>
+
+    <div>
+        <p>Siga-nos também nas redes sociais para ficar por dentro de todas as novidades e promoções!</p>
+        <p><img src="instagram.jpg" width=2%/><b> Instagram:</b> 01store_</p>
+    </div>
+</center>
+</body>
+</html>
+
+funcionários - loja
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Funcionários</title>
+</head>
+<body>
+<center>
+    <div>
+        <h1><b><p>01 $tore</p></b></h1>
+    </div>
+    
+    <div>
+        <a href="index.html">Página Inicial</a>
+        <a href="ctrl-estoque.html">Controle de Estoque</a>
+        <a href="add-produto.html">Adicionar Produto</a>
+        <a href="funcionarios.html">Funcionários</a>
+    </div>
+
+    <h2><p>Funcionários</p></h2>
+    <h3>Vinicius Alves</h3>
+    <img src="vini.jpg" width="10%" alt="Vinicius Alves">    
+    <br>
+    <h3>Gabriela Von</h3>
+    <img src="gabivon.jpg" width="10%" alt="Gabriela Von">
+
+</center>
+</body>
+</html>
+
+estoque - loja
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Controle de Estoque</title>
+</head>
+<body>
+    <br>
+
+    <div>
+        <p><h1><b>01 $tore</b></h1></p>
+    </div>
+    <br>
+
+    <div>
+        <a href="index.html">Página Inicial</a>
+        <a href="ctrl-estoque.html">Controle de Estoque</a>
+        <a href="add-produto.html">Adicionar Produto</a>
+        <a href="funcionarios.html">Funcionários</a>
+    </div>
+    <br>
+
+    <h2>Controle de Estoque</h2>
+
+    <table border 10>
+    <tr> 
+        <th>Foto</th>
+        <th>Descrição</th>
+        <th>Preço (R$)</th>
+        <th>Quantidade Disponível</th>
+    </tr>
+
+        <tr>
+            <td><img src="iphone 15.jpg" width="20%" alt="Iphones"></td>
+            <td>Iphones</td>
+            <td>preço pode variar dependendo do modelo, podendo ir de <b>R$</b> 4.899,99 a <b>R$</b> 6.899,99</td>
+            <td>85 Iphones</td>
+        </tr>
+
+        <tr>
+            <td><img src="capinha.jpg" width="20%" alt="Capinhas de Iphone"/></td>
+            <td>Capinhas</td>
+            <td><b>R$</b> 569,00 cada unidade</td>
+            <td>100 capinhas disponíveis e uma grande variedade de cores</td>
+        </tr>
+
+        <tr>
+            <td><img src="carregador.jpg" width="20%" alt="Carregadores"/></td>
+            <td>Carregadores para Iphones</td>
+            <td><b>R$</b> 219,00 cada</td>
+            <td>60 carregadores disponíveis</td>
+        </tr>
+
+        <tr>
+            <td><img src="mcbook.jpg" width="20%" alt="MacBook Pro"/></td>
+            <td>MacBooks Pro</td>
+            <td><b>R$</b> 22.999,00</td>
+            <td>100 MacBooks disponíveis</td>
+        </tr>
+
+        <tr>
+            <td><img src="capamacbook.jpg" width="20%" alt="Capinhas para MacBooks Pro"/></td>
+            <td>Capinhas para MacBooks Pro</td>
+            <td><b>R$</b> 699,00 cada unidade</td>
+            <td>72 capinhas disponíveis e uma grande variedade de cores</td>
+
+        </tr>
+
+        <tr>
+            <td><img src="carregadorMac.jpg" width="20%" alt="Carregadores para MacBooks Pro"/></td>
+            <td>Carregadores para MacBooks Pro</td>
+            <td><b>R$</b> 566,00 cada</td>
+            <td>64 carregadores disponíveis</td>
+        </tr>
+
+        <tr>
+            <td><img src="airpodspro.jpg" width="20%" alt="AirPods Pro"/></td>
+            <td>AirPods Pro</td>
+            <td><b>R$</b> 2.599,00 cada</td>
+            <td>48 AirPods disponíveis, tendo nas cores branco e preto</td>
+        </tr>
+        
+        <tr>
+            <td><img src="capinhaAir.jpg" width="20%" alt="Capinha para AirPods Pro"/></td>
+            <td>Capinha para AirPods Pro</td>
+            <td><b>R$</b> 399,00</td>
+            <td>58 capinhas para AirPods Pro disponíveis, com uma grande variedade de cores e modelos</td>
+        </tr>
+        
+    </table>
+
+
+</body>
+</html>
+
+produtos - loja
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Adicionar Produto</title>
+</head>
+<body>
+    <div>
+        <p><h1><b>01 $tore</b></h1></p>
+    </div>
+   
+    <div>
+        <a href="index.html">Página Inicial</a>
+        <a href="ctrl-estoque.html">Controle de Estoque</a>
+        <a href="add-produto.html">Adicionar Produto</a>
+        <a href="funcionarios.html">Funcionários</a>
+    </div>
+ 
+   
+    <h2>Adicionar Produto</h2>
+    <form action="">
+        <div>
+            <label for="link-foto">Link para foto: </label>
+            <input type="url" id="link-foto" name="link-foto">
+        </div>
+       
+        <div>
+            <label for="descricao">Descrição do produto: </label>
+            <input type="text" id="descricao" name="descricao">
+        </div>
+       
+        <div>
+            <label for="preco">Preço (em R$): </label>
+            <input type="number" id="preco" name="preco" step="0.01" min="0">
+        </div>
+       
+        <div>
+            <label for="quantidade">Quantidade disponível: </label>
+            <input type="number" id="quantidade" name="quantidade" min="0">
+        </div>
+       
+        <div class="form-add">
+            <button type="Enviar">Adicionar</button>
+        </div>
+       
+ 
+    </form>
+ 
+</body>
+</html>
